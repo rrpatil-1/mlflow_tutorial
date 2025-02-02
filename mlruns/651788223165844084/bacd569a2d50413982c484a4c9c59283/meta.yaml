@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ACER/OneDrive/Desktop/GenAI/Mlflow/mlruns/651788223165844084/bacd569a2d50413982c484a4c9c59283/artifacts
+end_time: 1738339311335
+entry_point_name: ''
+experiment_id: '651788223165844084'
+lifecycle_stage: active
+run_id: bacd569a2d50413982c484a4c9c59283
+run_name: XGBClassifier with SMOTETomek
+run_uuid: bacd569a2d50413982c484a4c9c59283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738339128652
+status: 3
+tags: []
+user_id: ACER

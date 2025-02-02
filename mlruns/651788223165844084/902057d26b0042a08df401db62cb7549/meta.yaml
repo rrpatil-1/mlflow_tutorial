@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ACER/OneDrive/Desktop/GenAI/Mlflow/mlruns/651788223165844084/902057d26b0042a08df401db62cb7549/artifacts
+end_time: 1738340837071
+entry_point_name: ''
+experiment_id: '651788223165844084'
+lifecycle_stage: active
+run_id: 902057d26b0042a08df401db62cb7549
+run_name: Random Forest
+run_uuid: 902057d26b0042a08df401db62cb7549
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738339106010
+status: 3
+tags: []
+user_id: ACER

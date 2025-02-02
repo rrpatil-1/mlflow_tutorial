@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1738341140840
+current_stage: None
+description: ''
+last_updated_timestamp: 1738341140840
+name: anaomaly_detection_prod
+run_id: 902057d26b0042a08df401db62cb7549
+run_link: ''
+source: models:/RandomForest/1
+status: READY
+status_message: null
+storage_location: file:///c:/Users/ACER/OneDrive/Desktop/GenAI/Mlflow/mlruns/651788223165844084/902057d26b0042a08df401db62cb7549/artifacts/model
+user_id: null
+version: 1

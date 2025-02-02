@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ACER/OneDrive/Desktop/GenAI/Mlflow/mlruns/330455759208544100/2bbcaaf21a884f318063f941c6afdc75/artifacts
+end_time: 1738328508107
+entry_point_name: ''
+experiment_id: '330455759208544100'
+lifecycle_stage: active
+run_id: 2bbcaaf21a884f318063f941c6afdc75
+run_name: intrigued-cow-845
+run_uuid: 2bbcaaf21a884f318063f941c6afdc75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738328491141
+status: 3
+tags: []
+user_id: ACER

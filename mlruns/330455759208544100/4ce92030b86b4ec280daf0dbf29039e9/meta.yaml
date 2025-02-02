@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ACER/OneDrive/Desktop/GenAI/Mlflow/mlruns/330455759208544100/4ce92030b86b4ec280daf0dbf29039e9/artifacts
+end_time: 1738255353417
+entry_point_name: ''
+experiment_id: '330455759208544100'
+lifecycle_stage: active
+run_id: 4ce92030b86b4ec280daf0dbf29039e9
+run_name: delightful-dog-709
+run_uuid: 4ce92030b86b4ec280daf0dbf29039e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738255341167
+status: 3
+tags: []
+user_id: ACER

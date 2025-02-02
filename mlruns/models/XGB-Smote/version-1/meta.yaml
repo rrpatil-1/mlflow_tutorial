@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1738339177034
+current_stage: None
+description: ''
+last_updated_timestamp: 1738339177034
+name: XGB-Smote
+run_id: bacd569a2d50413982c484a4c9c59283
+run_link: ''
+source: file:///c:/Users/ACER/OneDrive/Desktop/GenAI/Mlflow/mlruns/651788223165844084/bacd569a2d50413982c484a4c9c59283/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/ACER/OneDrive/Desktop/GenAI/Mlflow/mlruns/651788223165844084/bacd569a2d50413982c484a4c9c59283/artifacts/model
+user_id: null
+version: 1
