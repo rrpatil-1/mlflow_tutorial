@@ -30,22 +30,13 @@ This project leverages Mlflow for managing the machine learning lifecycle, inclu
     ```sh
     pip install mlflow
     ```
-2. Initialize a new Mlflow project:
-    ```sh
-    mlflow init
-    ```
-3. Configure the backend store and artifact store in `mlflow.yml`:
-    ```yaml
-    backend_store_uri: sqlite:///mlflow.db
-    default_artifact_root: ./mlruns
-    ```
-
-## Usage
-1. Run the Mlflow server:
+2. Run the Mlflow server:
     ```sh
     mlflow ui
     ```
-2. Start your experiments and track them using Mlflow.
+
+
+3. Start your experiments and track them using Mlflow.
 
 ## Contributing
 1. Fork the repository.
