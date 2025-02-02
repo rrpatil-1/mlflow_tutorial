@@ -1,4 +1,4 @@
-# GenAI Mlflow Project
+# Mlflow Project
 
 ## Project Description
 This project leverages Mlflow for managing the machine learning lifecycle, including experimentation, reproducibility, and deployment.
